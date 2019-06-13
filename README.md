@@ -1,5 +1,5 @@
 # Web App Using Dark Sky API
 
-### Built By
+## Built By
 
 Thong Nguyen
